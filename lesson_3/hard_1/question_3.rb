@@ -9,7 +9,7 @@ two = "two"
 three = "three"
 
 mess_with_varsA(one, two, three)
-
+puts "***A***"
 puts "one is: #{one}"
 puts "two is: #{two}"
 puts "three is: #{three}"
@@ -25,7 +25,7 @@ two = "two"
 three = "three"
 
 mess_with_varsB(one, two, three)
-
+puts "***B***"
 puts "one is: #{one}"
 puts "two is: #{two}"
 puts "three is: #{three}"
@@ -41,7 +41,7 @@ two = "two"
 three = "three"
 
 mess_with_varsC(one, two, three)
-
+puts "***C***"
 puts "one is: #{one}"
 puts "two is: #{two}"
 puts "three is: #{three}"
